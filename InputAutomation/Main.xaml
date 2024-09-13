@@ -248,7 +248,7 @@
                   </ui:CursorPosition>
                 </ui:Click.CursorPosition>
                 <ui:Click.Target>
-                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="a8d1411f-0d83-454d-bda5-ffb8c91a2e24" InformativeScreenshot="5499a2428a215a010c563c4fd314e36e" Selector="&lt;uia cls='MsoCommandBar' /&gt;&lt;uia cls='NetUIOrderedGroup' name='Home' /&gt;&lt;uia cls='NetUIChunk' name='Font' /&gt;&lt;uia automationid='Italic' cls='NetUIRibbonButton' name='Italic' /&gt;">
+                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="a8d1411f-0d83-454d-bda5-ffb8c91a2e24" InformativeScreenshot="a9d6c4c50cc3525d1fff0aee1d6c499f" Selector="&lt;wnd app='winword.exe' cls='OpusApp' title='Document1 - Word' /&gt;&lt;uia cls='MsoCommandBar' /&gt;&lt;uia cls='NetUIOrderedGroup' name='Home' /&gt;&lt;uia cls='NetUIChunk' name='Font' /&gt;&lt;uia automationid='Bold' cls='NetUIRibbonButton' name='Bold' /&gt;">
                     <ui:Target.TimeoutMS>
                       <InArgument x:TypeArguments="x:Int32" />
                     </ui:Target.TimeoutMS>
